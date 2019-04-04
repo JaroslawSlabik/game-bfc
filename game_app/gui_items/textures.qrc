@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arial.ttf</file>
+        <file>resources/level.png</file>
+        <file>resources/elements.png</file>
+        <file>resources/minus.png</file>
+        <file>resources/plus.png</file>
+        <file>resources/point_to_distribution.png</file>
+        <file>resources/is_used.png</file>
+    </qresource>
+</RCC>
